@@ -104,3 +104,14 @@ Me chamo Gabriel Máximo da Matta, tenho 18 anos e sou natural de Ponte Nova MG.
   />
 
 </p>
+
+###
+<img src="https://raw.githubusercontent.com/gabriel-maximo01/gabriel-maximo01/output/snake.svg" alt="Snake animation" />
+
+###
+
+</div>
+<br>
+<h1 align="center">
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
