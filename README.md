@@ -2,7 +2,7 @@
 
 **`Programador`**
 
-Me chamo Gabriel Máximo da Matta, tenho 18 anos e sou natural de Ponte Nova MG. Concluí o ensino médio no [IFMG Campos Ponte Nova](https://www.ifmg.edu.br/pontenova), com o curso técnico em informática. Sou apaixonado por tecnologia e venho estudando atualmente robótica com arduino, além de conhecer vários campos da programação como: programação web e mobile, conhecimento em java, javascript e c#.
+Me chamo Gabriel Máximo da Matta, tenho 18 anos e sou natural de Ponte Nova MG. Concluí o ensino médio no [IFMG Campos Ponte Nova](https://www.ifmg.edu.br/pontenova), com o curso técnico em informática e criei um site chamado [capoeira Viva Ponte Nova](https://capoeiravivapontenova.com.br/). Sou apaixonado por tecnologia e venho estudando atualmente robótica com arduino, além de conhecer vários campos da programação como: programação web e mobile, conhecimento em java, javascript e c#.
 
 <p align="left">
     <a href="https://github.com/gabriel-maximo01?tab=repositories&sort=stargazers">
